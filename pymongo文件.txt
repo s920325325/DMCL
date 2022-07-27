@@ -6,6 +6,16 @@ pymongo 丟資料
 #安裝所需套件
 pip install -r requirements.txt
 
+如果pandas 和 pymongo不能用
+conda install pandas
+pip install pymongo
+
+!!!vscode!!!
+vscode讀不到module問題
+去command pannel找
+python: select interpreter
+找當前環境 不然會讀不到
+
 輸入資訊
 1.選擇DB
 2.選資料路徑
