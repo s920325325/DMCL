@@ -3,6 +3,9 @@ pymongo 丟資料
 
 懶人包:
 
+#安裝所需套件
+pip install -r requirements.txt
+
 輸入資訊
 1.選擇DB
 2.選資料路徑
